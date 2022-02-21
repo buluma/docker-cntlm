@@ -1,8 +1,8 @@
 FROM alpine:3
 
-LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL version="1.3"
-LABEL build_date="2022-01-14"
+LABEL maintainer="Michael Buluma <me@buluma.me.ke>"
+LABEL version="1.4"
+LABEL build_date="2022-02-21"
 
 RUN apk add curl && \
     apk add --no-cache --virtual .build-deps gcc make musl-dev && \
