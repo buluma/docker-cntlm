@@ -1,7 +1,7 @@
 version: '2'
 services:
   cntlm:
-    image: robertdebock/docker-cntlm
+    image: buluma/docker-cntlm
     ports:
       - 3128:3128
     environment:
