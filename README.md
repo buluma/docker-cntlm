@@ -1,4 +1,4 @@
-[![](https://images.microbadger.com/badges/image/buluma/docker-cntlm.svg)](http://microbadger.com/images/buluma/docker-cntlm "Get your own image badge on microbadger.com") [![Build Status](https://travis-ci.org/buluma/docker-cntlm.svg?branch=master)](https://travis-ci.org/buluma/docker-cntlm)
+[![build-push](https://github.com/buluma/docker-cntlm/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/buluma/docker-cntlm/actions/workflows/build-push-action.yml)
 
 # docker-cntlm
 
